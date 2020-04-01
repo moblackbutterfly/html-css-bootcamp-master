@@ -1,0 +1,9 @@
+div {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(83, 30, 105);
+  border: 20px;
+  border-color: rgb(91, 80, 97);
+  border-radius: 20%;
+  border-style: groove;
+}
