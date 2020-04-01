@@ -1,0 +1,39 @@
+div {
+  width: 400px;
+  height: 400px;
+  border: 10px;
+  border-style: groove;
+  border-color: green;
+  background-image: url(puppy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 100%;
+  display: inline-block;
+}
+
+img {
+  border: 10px;
+  border-style: hidden;
+  border-color:  rgb(10, 32, 40);
+  border-radius: 100%;
+  padding: 20px;
+  margin: 40px;
+}
+.dogone {
+  border: 10px;
+  border-style: dashed;
+  border-color: rgb(182, 117, 96);
+  border-radius: 50%;
+}
+.dogtwo {
+  border: 10px;
+  border-style: ridge;
+  border-color: rgb(68, 72, 112);
+  border-radius: 80%;
+}
+.dogthree {
+  border: 10px;
+  border-style: double;
+  border-color: rgb(51, 3, 43);
+  border-radius: 20%;
+}
