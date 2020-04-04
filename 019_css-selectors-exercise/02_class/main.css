@@ -1,0 +1,5 @@
+/* class selectors. use =class within the open tag in html. can use many times */
+.emphasis {
+  font-weight: bold;
+  font-size: 20px;
+}

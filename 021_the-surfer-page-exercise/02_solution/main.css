@@ -1,0 +1,31 @@
+body {
+  background-color: blue;
+}
+
+div {
+  width: 60%;
+  /* height: 400px; */
+  background-color: green;
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.headerone{
+  color: blue;
+}
+
+.headertwo {
+   color: red;
+}
+
+img {
+  border: 15px;
+  border-style: groove;
+  border-color: yellow;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}

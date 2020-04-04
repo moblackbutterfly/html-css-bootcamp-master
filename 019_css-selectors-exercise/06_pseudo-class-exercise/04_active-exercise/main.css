@@ -1,0 +1,29 @@
+input {
+  font-size: 4rem;
+  margin-top: 4px;
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(69, 70, 70);
+}
+
+[type=submit] {
+  margin-top: 10px;
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(69, 70, 70);
+}
+
+[type=submit]:hover {
+  background-color: rgb(237, 95, 136)
+}
+
+[type=submit]:active {
+  background-color: rgb(188, 161, 196);
+}
+
+input:required {
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(99, 230, 92);
+  background-color: rgb(202, 194, 217);
+}

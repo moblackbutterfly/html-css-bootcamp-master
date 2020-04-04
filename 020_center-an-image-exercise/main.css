@@ -1,0 +1,32 @@
+* {
+  border: 2px;
+  border-style: dashed;
+  border-color: pink;
+}
+html {
+  border: 2px;
+  border-style: dashed;
+  border-color: red;
+}
+body {
+  border: 2px;
+  border-style: dashed;
+  border-color: blue;
+}
+
+div {
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  height: 200px;
+}
+
+img {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+  border 10px;
+  border-style: groove;
+  border-color: orange;
+  padding: 10px;
+}

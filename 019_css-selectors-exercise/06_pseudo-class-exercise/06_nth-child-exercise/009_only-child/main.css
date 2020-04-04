@@ -1,0 +1,7 @@
+li:only-child {
+  color: yellow;
+}
+
+p:only-child {
+  color: green;
+}

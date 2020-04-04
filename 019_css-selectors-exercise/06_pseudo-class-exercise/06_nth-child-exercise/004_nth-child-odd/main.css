@@ -1,0 +1,11 @@
+body {
+  font-size: 36px;
+}
+
+li:nth-child(odd) {
+  color: red;
+}
+
+ul:nth-child(odd) {
+  background-color: grey;
+}

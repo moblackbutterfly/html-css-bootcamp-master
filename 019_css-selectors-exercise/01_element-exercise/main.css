@@ -1,0 +1,12 @@
+/* Element selectors */
+header {
+  background-color: rgb(121, 96, 212);
+  border: 10px;
+  border-style: solid;
+  border-color: rgb(87, 31, 101);
+  }
+
+  h1 {
+    font-style: italic;
+    font-family: sans-serif;
+  }
