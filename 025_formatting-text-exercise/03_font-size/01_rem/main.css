@@ -1,0 +1,5 @@
+/* root of em (rem) */
+h1 {
+  font-family: fantasy,sans-serif;
+  font-size: 2rem;
+}
