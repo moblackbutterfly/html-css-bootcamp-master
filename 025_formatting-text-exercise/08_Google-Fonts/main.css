@@ -1,0 +1,13 @@
+p {
+  font-family: serif;
+  font-size: 4rem;
+  font-weight: bold;
+  font-variant: small-caps;
+  line-height: 2;
+  letter-spacing: 1rem;
+}
+
+h1 {
+  font-family: 'crimson text', serif;
+  word-spacing: 2rem;
+}
